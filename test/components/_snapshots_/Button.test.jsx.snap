@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component should render with 50% width when isWide is true 1`] = `
+<button
+  className="button wide"
+  id="button-0"
+  onClick={[Function]}
+  style={
+    {
+      "backgroundColor": "grey",
+    }
+  }
+  type="button"
+>
+  0
+</button>
+`;
+
+exports[`Button component should render with grey background color 1`] = `
+<button
+  className="button"
+  id="button-+"
+  onClick={[Function]}
+  style={
+    {
+      "backgroundColor": "grey",
+    }
+  }
+  type="button"
+>
+  +
+</button>
+`;
+
+exports[`Button component should render with orange default background color 1`] = `
+<button
+  className="button"
+  id="button-0"
+  onClick={[Function]}
+  style={
+    {
+      "backgroundColor": "grey",
+    }
+  }
+  type="button"
+>
+  0
+</button>
+`;

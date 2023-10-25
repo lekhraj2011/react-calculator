@@ -1,0 +1,29 @@
+.display {
+    max-width: 100%;
+    font-weight: bold;
+    padding: 8px;
+    border-bottom: 1px solid #ce4949;
+    margin-bottom: 8px;
+    background-color: #7e4444;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+  }
+  
+  @media (min-width: 780px) {
+    .display {
+      height: 108px;
+    }
+  }
+  
+  .currentButton {
+    color: hwb(0 100% 0%);
+    text-align: left;
+    height: 16px;
+  }
+  
+  .mainDisplay {
+    font-size: 3.5em;
+    text-align: right;
+    color: #fff;
+    overflow-x: scroll;
+  }

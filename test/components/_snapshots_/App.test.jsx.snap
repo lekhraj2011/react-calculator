@@ -1,0 +1,288 @@
+exports[`App component should  should render ButtonPanel and Display components 1`] = `
+<div
+  className="d-flex col calculator"
+>
+  <div
+    className="d-flex col jc-c display"
+  >
+    <div
+      className="currentButton"
+      role="presentation"
+    />
+    <div
+      className="mainDisplay"
+      id="display"
+      role="status"
+    >
+      0
+    </div>
+  </div>
+  <div
+    className="d-flex as-c button-group group-one"
+  >
+    <button
+      className="button"
+      id="button-AC"
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "lightgrey",
+        }
+      }
+      type="button"
+    >
+      AC
+    </button>
+    <button
+      className="button"
+      id="button-+/-"
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "lightgrey",
+        }
+      }
+      type="button"
+    >
+      +/-
+    </button>
+    <button
+      className="button"
+      id="button-%"
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "lightgrey",
+        }
+      }
+      type="button"
+    >
+      %
+    </button>
+    <button
+      className="button"
+      id="button-÷"
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "orange",
+        }
+      }
+      type="button"
+    >
+      ÷
+    </button>
+  </div>
+  <div
+    className="d-flex as-c button-group group-two"
+  >
+    <button
+      className="button"
+      id="button-7"
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "lightgrey",
+        }
+      }
+      type="button"
+    >
+      7
+    </button>
+    <button
+      className="button"
+      id="button-8"
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "lightgrey",
+        }
+      }
+      type="button"
+    >
+      8
+    </button>
+    <button
+      className="button"
+      id="button-9"
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "lightgrey",
+        }
+      }
+      type="button"
+    >
+      9
+    </button>
+    <button
+      className="button"
+      id="button-X"
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "orange",
+        }
+      }
+      type="button"
+    >
+      X
+    </button>
+  </div>
+  <div
+    className="d-flex as-c button-group group-three"
+  >
+    <button
+      className="button"
+      id="button-4"
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "lightgrey",
+        }
+      }
+      type="button"
+    >
+      4
+    </button>
+    <button
+      className="button"
+      id="button-5"
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "lightgrey",
+        }
+      }
+      type="button"
+    >
+      5
+    </button>
+    <button
+      className="button"
+      id="button-6"
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "lightgrey",
+        }
+      }
+      type="button"
+    >
+      6
+    </button>
+    <button
+      className="button"
+      id="button--"
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "orange",
+        }
+      }
+      type="button"
+    >
+      -
+    </button>
+  </div>
+  <div
+    className="d-flex as-c button-group group-four"
+  >
+    <button
+      className="button"
+      id="button-1"
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "lightgrey",
+        }
+      }
+      type="button"
+    >
+      1
+    </button>
+    <button
+      className="button"
+      id="button-2"
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "lightgrey",
+        }
+      }
+      type="button"
+    >
+      2
+    </button>
+    <button
+      className="button"
+      id="button-3"
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "lightgrey",
+        }
+      }
+      type="button"
+    >
+      3
+    </button>
+    <button
+      className="button"
+      id="button-+"
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "orange",
+        }
+      }
+      type="button"
+    >
+      +
+    </button>
+  </div>
+  <div
+    className="d-flex as-c button-group group-five"
+  >
+    <button
+      className="button wide"
+      id="button-0"
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "lightgrey",
+        }
+      }
+      type="button"
+    >
+      0
+    </button>
+    <button
+      className="button"
+      id="button-."
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "lightgrey",
+        }
+      }
+      type="button"
+    >
+      .
+    </button>
+    <button
+      className="button"
+      id="button-="
+      onClick={[Function]}
+      style={
+        {
+          "backgroundColor": "orange",
+        }
+      }
+      type="button"
+    >
+      =
+    </button>
+  </div>
+</div>
+`;

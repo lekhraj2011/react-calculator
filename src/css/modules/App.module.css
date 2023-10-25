@@ -1,0 +1,17 @@
+.calculator {
+    min-height: 380px;
+    width: 360px;
+    border: 3px solid #000000;
+    margin: 16px;
+    border-radius: 8px;
+    background-color: rgb(109, 172, 117);
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http:https://i.pinimg.com/originals/8c/43/64/8c43645fe8d0ac164a6925448be32858.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  @media (min-width: 780px) {
+    .calculator {
+      width: 700px;
+    }
+  }

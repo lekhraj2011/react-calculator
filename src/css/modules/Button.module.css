@@ -1,0 +1,18 @@
+.button {
+    width: 25%;
+    margin: 4px;
+    border: 1px solid #684646;
+    border-radius: 6px;
+    padding: 8px;
+    font-size: 2em;
+    cursor: pointer;
+  }
+  
+  .wide {
+    width: 50%;
+  }
+  
+  .button:hover {
+    border-color: #ca2f2f;
+    color: #fff;
+  }
